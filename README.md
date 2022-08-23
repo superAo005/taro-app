@@ -14,3 +14,10 @@ $ pnpm install
 
 # OR 使用 cnpm 安装依赖
 $ cnpm install
+# yarn
+$ yarn dev:weapp
+$ yarn build:weapp
+
+# npm script
+$ npm run dev:weapp
+$ npm run build:weapp
